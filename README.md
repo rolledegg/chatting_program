@@ -1,5 +1,6 @@
 # chatting_program
 ## multi chatting program with java swing
+### Java Socket , ServerSoket 이용해서 작성
 ### 기능
 * 실시간 다중 채팅 가능
 * 귓속말 채팅 가능
